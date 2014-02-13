@@ -1,3 +1,13 @@
+# backups
+*.tgz
+*.gz
+*.xz
+# emacs
+*~
+
+# log files
+*.log
+
 *.py[cod]
 
 # C extensions
